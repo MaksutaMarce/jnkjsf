@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-BOT_TOKEN = "8124787124:AAGKsWQj0bV3Iu6uODL8qAw1hDjBD9ixGsw"
+BOT_TOKEN = "8124787124:AAHoj4XEfsa0KCk4WHSag7AKdNFY_RqXe88"
 DEEPSEEK_API_KEY = "sk-dc9fe1a1bccd4552b32ca92a4ee1cfa7"
 DEFAULT_MANAGER_ID = 6392591727
 DONATION_ALERTS_URL = "https://www.donationalerts.com/r/daibel_store"
